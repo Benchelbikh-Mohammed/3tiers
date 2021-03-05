@@ -15,46 +15,6 @@ public class MemoryUserDao implements UserDao{
                 "jhon.doe@example.com","Jhon1"));
         users.add(new User(2,"Patrick Jane",
                 "patrick.jane@example.com","JaneMentalist"));
-        users.add(new User(1,"John Doe",
-                "jhon.doe@example.com","Jhon1"));
-        users.add(new User(2,"Patrick Jane",
-                "patrick.jane@example.com","JaneMentalist"));users.add(new User(1,"John Doe",
-                "jhon.doe@example.com","Jhon1"));
-        users.add(new User(2,"Patrick Jane",
-                "patrick.jane@example.com","JaneMentalist"));users.add(new User(1,"John Doe",
-                "jhon.doe@example.com","Jhon1"));
-        users.add(new User(2,"Patrick Jane",
-                "patrick.jane@example.com","JaneMentalist"));users.add(new User(1,"John Doe",
-                "jhon.doe@example.com","Jhon1"));
-        users.add(new User(2,"Patrick Jane",
-                "patrick.jane@example.com","JaneMentalist"));users.add(new User(1,"John Doe",
-                "jhon.doe@example.com","Jhon1"));
-        users.add(new User(2,"Patrick Jane",
-                "patrick.jane@example.com","JaneMentalist"));users.add(new User(1,"John Doe",
-                "jhon.doe@example.com","Jhon1"));
-        users.add(new User(2,"Patrick Jane",
-                "patrick.jane@example.com","JaneMentalist"));users.add(new User(1,"John Doe",
-                "jhon.doe@example.com","Jhon1"));
-        users.add(new User(2,"Patrick Jane",
-                "patrick.jane@example.com","JaneMentalist"));users.add(new User(1,"John Doe",
-                "jhon.doe@example.com","Jhon1"));
-        users.add(new User(2,"Patrick Jane",
-                "patrick.jane@example.com","JaneMentalist"));users.add(new User(1,"John Doe",
-                "jhon.doe@example.com","Jhon1"));
-        users.add(new User(2,"Patrick Jane",
-                "patrick.jane@example.com","JaneMentalist"));users.add(new User(1,"John Doe",
-                "jhon.doe@example.com","Jhon1"));
-        users.add(new User(2,"Patrick Jane",
-                "patrick.jane@example.com","JaneMentalist"));users.add(new User(1,"John Doe",
-                "jhon.doe@example.com","Jhon1"));
-        users.add(new User(2,"Patrick Jane",
-                "patrick.jane@example.com","JaneMentalist"));users.add(new User(1,"John Doe",
-                "jhon.doe@example.com","Jhon1"));
-        users.add(new User(2,"Patrick Jane",
-                "patrick.jane@example.com","JaneMentalist"));users.add(new User(1,"John Doe",
-                "jhon.doe@example.com","Jhon1"));
-        users.add(new User(2,"Patrick Jane",
-                "patrick.jane@example.com","JaneMentalist"));
 
         max=2;
 

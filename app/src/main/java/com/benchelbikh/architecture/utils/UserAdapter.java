@@ -31,7 +31,7 @@ public class UserAdapter extends
         LayoutInflater inflater = LayoutInflater.from(context);
 
         // Inflate the custom layout
-        View contactView = inflater.inflate(R.layout.item_user, parent, false);
+        View contactView = inflater.inflate(R.layout.item_user, parent  , false);
 
         // Return a new holder instance
         ViewHolder viewHolder = new ViewHolder(contactView);
